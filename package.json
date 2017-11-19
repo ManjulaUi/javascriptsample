@@ -7,14 +7,14 @@
     "start": "webpack --watch",
     "test": "jasmine"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ManjulaUi/javascriptsample.git"
-  },
-  "author": "",
+  "repository": "https://github.com/ManjulaUi/javascriptsample.git",
+  "author": "Manjula <manjulag365@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "jasmine": "^2.8.0",
     "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "yarn": "^1.3.2"
   }
 }
